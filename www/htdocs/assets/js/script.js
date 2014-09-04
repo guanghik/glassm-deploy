@@ -3,6 +3,10 @@ $(function(){
 	var note = $('#note'),
 		ts = new Date(2014, 8, 25);
 
+//	var logo = $('#logo');
+//	logo.html('<img src="assets/img/rose_icon.png"/>');
+//	logo.html("messageasdfasdf<br />");
+
 	$('#countdown').countdown({
 		timestamp	: ts,
 		callback	: function(days, hours, minutes, seconds){
