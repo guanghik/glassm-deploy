@@ -1,7 +1,7 @@
 .countdownHolder{
-	width:450px;
+	width:90%;
 	margin:0 auto;
-	font: 40px/1.5 'Open Sans Condensed',sans-serif;
+	font: 72px/1.5 'Open Sans Condensed',sans-serif;
 	text-align:center;
 	letter-spacing:-3px;
 }
